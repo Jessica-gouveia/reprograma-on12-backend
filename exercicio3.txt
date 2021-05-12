@@ -1,0 +1,12 @@
+Resolução exercício 3 
+
+Trocar pneu
+1 - Verificar se o pneu furou;
+2 - Entre no carro e puxe o freio de mão e coloque o câmbio em modo "estacionado”, em primeira ou em marcha à ré;
+3 - Pegue o estepe e o macaco;
+4 - Levante o macaco até que ele apoie o carro;
+5 - Tire a calota e afrouxe os parafusos;
+6 - Remova os parafusos e o pneu;
+7 - Coloque o pneu novo;
+8 - Aperte os parafusos;
+9 - Tire o macaco e guarde.
