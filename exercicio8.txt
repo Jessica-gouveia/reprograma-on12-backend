@@ -1,0 +1,8 @@
+Resolução exercício 8
+
+Algoritmo para saber se um número é ímpar ou par.
+
+1 - Digite um número;
+2 - Se esse número dividido por 2 tiver resto 0;
+3 - Então o número é par;
+4 - Se não, é ímpar.
