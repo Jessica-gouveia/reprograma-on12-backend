@@ -1,0 +1,9 @@
+Resolução exercício 7
+
+Algoritmo que some 3 números
+
+1 - Informar o primeiro número;
+2 - Informar o segundo número;
+3 - Informar o terceiro número;
+4 - Somar os três números;
+5 - Mostrar o resultado da soma.
