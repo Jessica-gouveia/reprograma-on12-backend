@@ -1,0 +1,15 @@
+Resolução Exercício 1
+
+Trocar uma Lâmpada queimada
+
+1 - Ligar interruptor;
+2 - Verificar se a lâmpada acendeu;
+3 - Se não ascender, desligue o interruptor;
+4 - Pegue uma escada e suba;
+5 - Tire a lâmpada queimada;
+6 - Desça da escada;
+7 - Pegue a Lâmpada nova;
+8 - Suba a escada;
+9 - Coloque a lâmpada nova;
+10 - Desça a escada;
+11 - Ligue o interruptor.
