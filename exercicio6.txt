@@ -1,0 +1,9 @@
+Resolução exercício 6 
+
+Brincadeira "Morto! Vivo!"
+
+1 - Se o "mestre" falar: Vivo!;
+2 - Se você continuar em pé;
+3 - Continue na brincadeira;
+4 - Se você estiver abaixado saia da brincadeira;
+
