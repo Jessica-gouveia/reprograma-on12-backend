@@ -1,0 +1,15 @@
+Resolução exercício 4
+
+Débito no caixa eletrônico  - Sacar dinheiro
+
+1 - Vá até um caixa eletrônico do seu banco ou banco 24 horas;
+2 - Coloque o cartão;
+3 - Digite a senha;
+4 - Escolha a opção sacar;
+5 - Digite a quantia desejada;
+6 - Se tiver saldo sufuciente sacar;
+7 - Se não tiver saldo mostrar mensagem de aviso;
+8 - Retirar o cartão;
+9 - Sair do caixa eletrônico.
+
+
