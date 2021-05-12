@@ -1,0 +1,10 @@
+Resolução exercício 9
+
+Mostrar média aritmética entre duas notas e a situação do aluno: aprovado ou reprovado.
+
+1 - Digite a primeira nota;
+2 - Digite a segunda nota;
+3 - Somar nota1 + nota2;
+4 - Com o resultado da soma, dividir por 2;
+5 - Se o resultado for >=5 APROVADO;
+6 - Se for 5< REPROVADO;
