@@ -1,0 +1,9 @@
+Resolução exercício 10
+
+Calcular novo salário de um funcionário
+
+1 - Digitar salário atual do funcionário;
+2 - Salário atual é de até R$ 500,00?
+3 - Se sim , calcular o novo salário com aumento de 20%;
+4 - Se não, calcular o novo salário com aumento de 10%;
+5 - Exibir o novo salário.
